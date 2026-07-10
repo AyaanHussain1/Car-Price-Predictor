@@ -44,7 +44,7 @@ car-price-predictor/
 
 ```bash
 # Clone the repository
-git clone https://github.com/<your-username>/car-price-predictor.git
+git clone https://github.com/AyaanHussain1/car-price-predictor.git
 cd car-price-predictor
 
 # Install dependencies
