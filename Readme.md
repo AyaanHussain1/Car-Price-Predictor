@@ -1,6 +1,6 @@
 # Car Price Predictor
 
-🔗 Live Demo: [Add your deployment link here]
+🔗 Live Demo: [http://192.168.100.89:5000]
 
 A machine learning web app that predicts the resale price of used cars based on make, model, year, mileage, and fuel type, trained on real second-hand car listings.
 
