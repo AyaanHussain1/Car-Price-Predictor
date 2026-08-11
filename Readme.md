@@ -1,6 +1,6 @@
 # Car Price Predictor
 
-🔗 Live Demo: [http://192.168.100.89:5000]
+🔗 Live Demo: [https://car-price-predictor-one-liard.vercel.app/]
 
 A machine learning web app that predicts the resale price of used cars based on make, model, year, mileage, and fuel type, trained on real second-hand car listings.
 
